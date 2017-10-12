@@ -1,6 +1,6 @@
 # first_project
 
-Firebase chatt app with flutter (unfinished).
+Firebase chatt app with flutter.
 
 ## Getting Started
 
